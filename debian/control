@@ -7,7 +7,7 @@ Standards-Version: 3.9.1
 
 Package: python-oslo.log
 Architecture: all
-Depends: ${misc:Depends}, ${python:Depends}
+Depends:
 Description: oslo.log library
  ================================
  oslo.log -- Oslo Logging Library
