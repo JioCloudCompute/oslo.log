@@ -1,5 +1,0 @@
-oslo-log (1.0.0.12.gbe0f75d-1) unstable; urgency=low
-
-  * source package automatically created by stdeb 0.6.0+git
-
- -- OpenStack <openstack-dev@lists.openstack.org>  Sun, 06 Dec 2015 04:59:49 +0000
