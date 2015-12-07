@@ -1,0 +1,12 @@
+python-oslo.log (1.0.0-0ubuntu1) vivid; urgency=medium
+
+  [ Thomas Goirand ]
+  * Initial release. (Closes: #776109)
+
+  [ James Page ]
+  * Initial release for Ubuntu Vivid to support OpenStack Kilo-3
+    (LP: #1434526).
+  * Upload packaging from Debian VCS, transitioning to oslo-* naming
+    scheme for Ubuntu Vivid.
+
+ -- James Page <james.page@ubuntu.com>  Mon, 23 Mar 2015 13:43:36 +0000
